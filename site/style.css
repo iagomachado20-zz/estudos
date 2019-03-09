@@ -1,0 +1,6 @@
+.center {
+    max-width: 500px;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
